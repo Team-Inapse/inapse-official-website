@@ -34,5 +34,5 @@ by Team Inapse
         - [ ] 해커톤 종료까지 남은 시간 타이머
         - [ ] 파일 제출 시스템
 
-# Screenshots
+## Screenshots
 ![](screenshot/timer.png)
