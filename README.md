@@ -35,4 +35,4 @@ by Team Inapse
         - [ ] 파일 제출 시스템
 
 ## Screenshots
-![](screenshot/timer.png)
+![](screenshot/mainpage-head.png)
