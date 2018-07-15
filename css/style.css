@@ -10,18 +10,38 @@
                      
 Copyright (c) 2018, Inapse       
 */
+
+/* Start import */
 @import url('http://fonts.googleapis.com/earlyaccess/notosanskr.css');
 @import url('https://fonts.googleapis.com/css?family=Roboto:300');
+@import url(https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css);
+/* End import */
+
+/* scroll bar */
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
+/* End Scroll bar */
+
 #inapse-logo {
-    width: 30%;
+    width: 10%;
     max-width: 300px;
     height: auto;
+    margin-top: 130px;
     margin-bottom: -30px;
 }
 .masthead {
     padding: 0;
-    margin-top: 80px;
-    background: url('../img/background.jpg') no-repeat center center fixed;
+    background: url('../img/bg-restart.jpg') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -30,26 +50,29 @@ Copyright (c) 2018, Inapse
 .timer-title {
     text-align: center;
     color: #ffffff;
-    font-family: 'Noto Sans KR', sans-serif !important;
+    font-family: 'NanumSquare', sans-serif;
 }
 .timer-title h1 {
     text-align: center;
     color: #ffffff;
-    font-family: 'Noto Sans KR', sans-serif !important;
+    font-family: 'NanumSquare', sans-serif;
     margin: 0;
-    /* margin-top: 100px; */
-    font-size: 8rem;
+    margin-top: 70px;
+    font-size: 2rem;
     font-weight: 500;
 }
 .timer-title h2 {
     margin: 0;
+    margin-top: 40px;
     font-size: 5rem;
-    font-weight: 100;
+    font-weight: 300;
 }
 .timer-title h3 {
-    font-size: 2rem;
-    font-family: 'Roboto', sans-serif;
+    font-size: 1rem;
+    font-family: 'NanumSquare', sans-serif;
+    font-weight: 400
 }
+
 @media only screen and (max-width: 700px) {
     .timer-title h1 {
         font-size: 4rem;
@@ -64,3 +87,4 @@ Copyright (c) 2018, Inapse
         margin-bottom: -20px;
     }
 }
+
