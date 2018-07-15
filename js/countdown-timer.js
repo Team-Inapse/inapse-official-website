@@ -1,6 +1,6 @@
 function timer(){
     // Update time left until Hackathon start (countdown timer)
-    var deadline = 1534258800000; // Hackathon starts at 2018.08.15 (KST)
+    var deadline = 1532703600000; // Hackathon starts at 2018.07.28 (KST)
     var x = setInterval(function() {
         var now = new Date().getTime();
         var t = deadline - now;
@@ -13,7 +13,8 @@ function timer(){
     }, 1000);
     // Referred to : https://www.geeksforgeeks.org/create-countdown-timer-using-javascript/
 }
-/* <body onload="timer()">
+/* example usage:
+<body onload="timer()">
     <div class="timer-title">
         <h1>해커톤까지</h1>
         <h2 id="date">0일 0시간 0분 0초</h2>
