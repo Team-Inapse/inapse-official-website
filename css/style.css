@@ -16,6 +16,7 @@ Copyright (c) 2018, Inapse
     width: 30%;
     max-width: 300px;
     height: auto;
+    margin-bottom: -30px;
 }
 .masthead {
     padding: 0;
@@ -37,7 +38,7 @@ Copyright (c) 2018, Inapse
     font-family: 'Noto Sans KR', sans-serif !important;
     margin: 0;
     /* margin-top: 100px; */
-    font-size: 9rem;
+    font-size: 8rem;
     font-weight: 500;
 }
 .timer-title h2 {
@@ -58,5 +59,8 @@ Copyright (c) 2018, Inapse
     }
     .timer-title h3 {
         font-size: 1rem;
+    }
+    #inapse-logo {
+        margin-bottom: -20px;
     }
 }
