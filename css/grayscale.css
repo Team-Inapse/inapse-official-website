@@ -4,6 +4,21 @@
   }
 }
 
+/* scroll bar */
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FF0000;
+}
+/* End Scroll bar */
+
 #mainNav {
   min-height: 56px;
   background-color: #fff;
