@@ -17,6 +17,21 @@ Copyright (c) 2018, Inapse
 @import url(https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css);
 /* End import */
 
+/* scroll bar */
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #FF0000;
+}
+/* End Scroll bar */
+
 #inapse-logo {
     width: 10%;
     max-width: 300px;
