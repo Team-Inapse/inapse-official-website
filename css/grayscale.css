@@ -4,6 +4,21 @@
   }
 }
 
+/* scroll bar */
+html {
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #FF0000;
+}
+/* End Scroll bar */
+
 #mainNav {
   min-height: 56px;
   background-color: #fff;
@@ -263,10 +278,6 @@
 
 .contact-section .social a:active {
   color: #fff;
-}
-
-.rules-section{
-  padding: 10rem 0;
 }
 
 body {
