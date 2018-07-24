@@ -158,6 +158,7 @@ Used StartBootstrap-Grayscale Web Template
 
         <div class="row">
           
+        <a href="https://m.me/Inapse2018">
           <div class="col-md-4 mb-3 mb-md-0">
             <div class="card py-4 h-100">
               <div class="card-body text-center">
@@ -168,7 +169,9 @@ Used StartBootstrap-Grayscale Web Template
               </div>
             </div>
           </div>
-
+        </a>
+        
+        <a href="mailto:teamofficial@inapse.io">
           <div class="col-md-4 mb-3 mb-md-0">
             <div class="card py-4 h-100">
               <div class="card-body text-center">
@@ -181,7 +184,9 @@ Used StartBootstrap-Grayscale Web Template
               </div>
             </div>
           </div>
+        </a>
 
+        <a href="https://www.facebook.com/Inapse2018/">
           <div class="col-md-4 mb-3 mb-md-0">
             <div class="card py-4 h-100">
               <div class="card-body text-center">
@@ -192,6 +197,7 @@ Used StartBootstrap-Grayscale Web Template
               </div>
             </div>
           </div>
+        </a>
         </div>
 
         <div class="social d-flex justify-content-center">
