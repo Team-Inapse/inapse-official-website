@@ -28,5 +28,5 @@ Copyright (c) 2018, Inapse
         <h2 id="date">0일 0시간 0분 0초</h2>
         <h3>제 1회 이냅스 해커톤, 미래와 과거의 만남</h3>
     </div>
-    <script src="js/countdown-timer.js"></script>
+    <script src="/assets/js/countdown-timer.js"></script>
 </body>
