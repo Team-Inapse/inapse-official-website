@@ -60,7 +60,7 @@ Used StartBootstrap-Grayscale Web Template
 
     <!-- Header -->
     <header class="masthead">
-      <iframe src="/assets/timer.html" style="display:block;border:none;height:100vh;width:100vw" width="100%"/></iframe>
+      <iframe src="/timer" style="display:block;border:none;height:100vh;width:100vw" width="100%"/></iframe>
     </header>
 
     <!-- About Section -->
