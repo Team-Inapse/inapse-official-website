@@ -23,7 +23,7 @@ Copyright (c) 2018, Inapse
 </head>
 <body onload="timer()">
     <div class="timer-title">
-        <img id="inapse-logo" src="img/logo.png"/>
+        <img id="inapse-logo" src="/assets/img/logo.png"/>
         <h1>해커톤 시작 [ 2018.7.28(토) 12:00 ] 까지</h1>
         <h2 id="date">0일 0시간 0분 0초</h2>
         <h3>제 1회 이냅스 해커톤, 미래와 과거의 만남</h3>
