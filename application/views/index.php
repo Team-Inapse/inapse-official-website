@@ -60,7 +60,7 @@ Used StartBootstrap-Grayscale Web Template
 
     <!-- Header -->
     <header class="masthead">
-      <iframe src="./timer.html" style="display:block;border:none;height:100vh;width:100vw" width="100%"/></iframe>
+      <iframe src="/assets/timer.html" style="display:block;border:none;height:100vh;width:100vw" width="100%"/></iframe>
     </header>
 
     <!-- About Section -->
@@ -73,7 +73,7 @@ Used StartBootstrap-Grayscale Web Template
               택시 합승앱 · 개선된 메모장 앱 등 일상생활에서 불편한 점을 개선하기 위해 노력하고 있는 학생 개발팀입니다.</p>
           </div>
         </div>
-        <img src="img/teaminapse.png" class="img-fluid" alt="">
+        <img src="/assets/img/teaminapse.png" class="img-fluid" alt="">
       </div>
     </section>
 
@@ -84,7 +84,7 @@ Used StartBootstrap-Grayscale Web Template
         <!-- Featured Project Row -->
         <div class="row align-items-center no-gutters mb-4 mb-lg-5">
           <div class="col-xl-8 col-lg-7">
-            <img class="img-fluid mb-3 mb-lg-0" src="img/bg-masthead.jpg" alt="">
+            <img class="img-fluid mb-3 mb-lg-0" src="/assets/img/bg-masthead.jpg" alt="">
           </div>
           <div class="col-xl-4 col-lg-5">
             <div class="featured-text text-center text-lg-left">
@@ -97,7 +97,7 @@ Used StartBootstrap-Grayscale Web Template
         <!-- Project One Row -->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div class="col-lg-6">
-            <img class="img-fluid" src="img/demo-image-01.jpg" alt="">
+            <img class="img-fluid" src="/assets/img/demo-image-01.jpg" alt="">
           </div>
           <div class="col-lg-6">
             <div class="bg-black text-center h-100 project">
@@ -115,7 +115,7 @@ Used StartBootstrap-Grayscale Web Template
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="img/demo-image-02.jpg" alt="">
+            <img class="img-fluid" src="/assets/img/demo-image-02.jpg" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
@@ -214,12 +214,12 @@ Used StartBootstrap-Grayscale Web Template
     </footer>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
     <!-- Plugin JavaScript -->
-    <script src="vendor/font-awesome/js/all.js"></script>
-    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="/assets/vendor/font-awesome/js/all.js"></script>
+    <script src="/assets/vendor/jquery-easing/jquery.easing.min.js"></script>
     <!-- Custom scripts for this template -->
-    <script src="js/grayscale.min.js"></script>
+    <script src="/assets/js/grayscale.min.js"></script>
   </body>
 </html>
