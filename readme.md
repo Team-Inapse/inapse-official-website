@@ -37,7 +37,7 @@ by Team Inapse
         - [ ] 해커톤 규칙 안내
         - [ ] 팀 / 팀원 등록 및 관리
         - [x] 해커톤 종료까지 남은 시간 타이머
-        - [ ] 파일 제출 시스템
+        - [x] 파일 제출 시스템
 
 ## Screenshots
 ![](screenshot/mainpage-head.png)
