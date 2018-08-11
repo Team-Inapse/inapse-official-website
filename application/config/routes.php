@@ -56,3 +56,5 @@ $route['translate_uri_dashes'] = FALSE;
 $route['timer'] = 'main/timer';
 $route['timer-end'] = 'main/timer_end';
 $route['rule'] = 'main/rule';
+$route['submit'] = 'main/submit';
+$route['result'] = 'main/result';
