@@ -1,6 +1,7 @@
 <html>
   <head>
     <title>해커톤 최종 제출시스템</title>
+    <meta charset="utf-8">
     <link rel="stylesheet" type="text/css" href="/assets/css/github-colors.css"/>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/js/materialize.min.js"></script>
