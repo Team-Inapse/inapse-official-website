@@ -35,4 +35,34 @@ class Main extends CI_Controller {
 	{
 		$this->load->view('rule');
 	}
+	public function submit()
+	{
+		if($this->input->post("team_name") && $this->input->post("team_link")){
+			$name = $this->input->post("team_name", true);
+			$link = $this->input->post("team_link", true);
+			
+	
+		         $this->load->database();
+		         $query = "INSERT INTO no1 ( team_name, team_link)
+		         VALUES ( '$name', '$link');";
+
+		         if(!$this->db->simple_query($query))
+		         {
+		             echo "DB 업로드에 실패하였습니다.";
+		             exit;
+		         }
+
+		         echo "<script>alert('업로드 성공');";
+		         echo "history.back();</script>";
+		}
+		$this->load->view('submit');
+	}
+	public function result(){
+		$this->load->database();
+		$q = $this->db->query("SELECT * FROM no1");
+		$a = array();
+		$a['q'] = $q;
+		$this->load->view('result', $a);
+		
+	}
 }
