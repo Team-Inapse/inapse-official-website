@@ -51,7 +51,7 @@ Used StartBootstrap-Grayscale Web Template
               <a class="nav-link js-scroll-trigger" href="#projects">Projects</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#contact-section">Contact US</a>
+              <a class="nav-link js-scroll-trigger" href="#contacts">Contact US</a>
             </li>
           </ul>
         </div>
@@ -153,7 +153,7 @@ Used StartBootstrap-Grayscale Web Template
     </section>-->
 
     <!-- Contact Section -->
-    <section class="contact-section bg-black">
+    <section id="contacts" class="contact-section bg-black">
       <div class="container">
 
         <div class="row">
