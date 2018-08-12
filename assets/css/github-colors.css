@@ -37,7 +37,7 @@ Source URI:
 }
 /* 1.b = Github Branding Grayscale Swatches
 -------------------------------------------------------------------- */
- .swatch-github-gray-light {
+.swatch-github-gray-light {
 	background-color: var(--github-gray-light);
 }
 .swatch-github-gray {
