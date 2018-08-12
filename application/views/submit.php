@@ -21,7 +21,6 @@
       <br>
       <i class="fab fa-github fa-7x"></i>
       <h1 style="font-size: 180%;">프로젝트 Github 저장소의 링크를 제출해주세요!</h1>
-     
  
       <div class="row" style="width: 80%;">
           <form action="submit.php" method="post" class="col s12">
@@ -37,6 +36,7 @@
                 <label for="link">Github Link to Repository</label>
               </div>
             </div>
+            <button style="font-size: 120%; color: #FFFFFF; width:100%; border-radius: 25px;" class="submit-btn btn waves-effect waves-light swatch-github-gray-light" type="submit" name="action">제출하기</button>
           </form>
       </div>
       <!--  -->
