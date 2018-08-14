@@ -24,14 +24,14 @@
         
                 <th>타임스탬프</th><th>팀명</th><th>깃헙링크</th>
                 </tr>
-                
+                <?php
              foreach ($q->result() as $row) {
                 echo '<tr><td>' . $row->timestamp . '</td>' .
                     '<td>' . $row->team_name . '</td>' .
                     '<td>' . $row->team_link . '</td></tr>';
-            
+             
 }
-         
+         ?>
       </table>
     </body>
 </html>
