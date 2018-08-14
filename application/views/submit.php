@@ -23,16 +23,16 @@
       <h1 style="font-size: 180%;">프로젝트 Github 저장소의 링크를 제출해주세요!</h1>
  
       <div class="row" style="width: 80%;">
-          <form action="submit.php" method="post" class="col s12">
+          <form action="submit" method="post" class="col s12">
             <div class="row">
               <div class="input-field col s6">
                 <i style="color: #FFFFFF;" class="fas fa-coffee fa-2x"></i>
-                <input  name="team_name" id="team" type="text" class="validate">
+                <input  style="color: #FFFFFF;"  name="team_name" id="team" type="text" class="validate">
                 <label for="team">Team name</label>
               </div>
               <div class="input-field col s6">
                 <i style="color: #FFFFFF;" class="fas fa-code-branch fa-2x"></i>
-                <input name="team_link" id="link" type="text" class="validate">
+                <input style="color: #FFFFFF;" name="team_link" id="link" type="text" class="validate">
                 <label for="link">Github Link to Repository</label>
               </div>
             </div>
