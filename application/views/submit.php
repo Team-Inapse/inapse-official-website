@@ -24,6 +24,9 @@
  
       <div class="row" style="width: 80%;">
           <form action="submit" method="post" class="col s12">
+            <input type="hidden" name="<?php echo $this->security->get_csrf_token_name();?>" value="<?php echo $this->security->get_csrf_hash();?>">
+					
+
             <div class="row">
               <div class="input-field col s6">
                 <i style="color: #FFFFFF;" class="fas fa-coffee fa-2x"></i>
