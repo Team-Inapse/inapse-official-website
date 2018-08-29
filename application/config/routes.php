@@ -54,7 +54,7 @@ $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
 $route['timer'] = 'main/timer';
-$route['timer-end'] = 'main/timer_end';
-$route['rule'] = 'main/rule';
-$route['submit'] = 'main/submit';
-$route['result'] = 'main/result';
+$route['hackathon/timer'] = 'main/timer_end';
+$route['hackathon/rule'] = 'main/rule';
+$route['hackathon/submit'] = 'main/submit';
+$route['hackathon/result'] = 'main/result';
