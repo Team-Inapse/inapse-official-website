@@ -58,3 +58,4 @@ $route['hackathon/timer'] = 'main/timer_end';
 $route['hackathon/rule'] = 'main/rule';
 $route['hackathon/submit'] = 'main/submit';
 $route['hackathon/result'] = 'main/result';
+$route['hackathon/q-and-a'] = 'main/q_and_a';

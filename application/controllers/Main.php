@@ -65,4 +65,8 @@ class Main extends CI_Controller {
 		$this->load->view('result', $a);
 		
 	}
+	public function q_and_a()
+	{
+		$this->load->view('q-and-a');
+	}
 }

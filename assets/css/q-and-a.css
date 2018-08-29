@@ -1,0 +1,61 @@
+body {
+  background-color: #eee;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto;
+  grid-gap: 10px;
+  background-color: #eee;
+  padding: 8px;
+}
+
+.grid-container > div {
+  border: 0px solid black;
+  text-align: center;
+  font-size: 20px;
+}
+
+.grid-title {
+  display: grid;
+  grid-template-columns: auto;
+  grid-gap: 10px;
+  background-color: #eee;
+  padding: 8px;
+}
+
+.grid-title > div {
+  background-color : black;
+  border: 0px solid black;
+  text-align: center;
+  font-size: 20px;
+}
+
+.title {
+text-align:center;
+}
+
+.inapsetab {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 80%;
+  border: none;
+  text-align: left;
+  transition: 0.4s;
+}
+
+.active, .inapsetab:hover {
+  background-color: #ccc;
+}
+
+.panel {
+  padding: 0 12%;
+  background-color: #eee;
+  font-size: 15px;
+  max-height: 0;
+  overflow: hidden;
+  text-align: left;
+  transition: max-height 0.3s ease-out;
+}
