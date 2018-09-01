@@ -1,6 +1,6 @@
 function timer(){
     // Update time left until Hackathon start (countdown timer)
-    var deadline = 1532703600000; // Hackathon starts at 2018.07.28 (KST)
+    var deadline = new Date('10/13/2018 12:00:00'); // Hackathon starts at 2018.10.13 (KST)
     var x = setInterval(function() {
         var now = new Date().getTime();
         var t = deadline - now;
