@@ -81,8 +81,32 @@ Used StartBootstrap-Grayscale Web Template
     <section id="projects" class="projects-section bg-light">
       <div class="container">
 
+      <div class="row justify-content-center no-gutters mb-5 mb-lg-0" >
+        <div class="col-lg-6">
+          <img src="/assets/img/bg-masterin.jpg" alt="" height="100%" width="100%">
+        </div>
+      <div class="col-lg-6">
+        <div class="bg-black text-center h-100 project">
+          <div class="d-flex h-100">
+            <div class="project-text w-100 my-auto text-center text-lg-left">
+              <h4 class="text-white">Team History</h4>
+              <p><p class="text-white-50 mb-0">2017.12.22 중고등학생 개발팀 결성 준비 개시<p>
+                    <p class="text-white-50 mb-0">2018.01.23 제 1차 모집 완료 (총원 30명)<p>
+                      <p class="text-white-50 mb-0">2018.02.01 팀 명칭을 Inapse로 확정<p>
+                        <p class="text-white-50 mb-0">2018.02 택시 합승 앱 프로젝트 개발 개시<p>
+                          <p class="text-white-50 mb-0">2018.04 제 2차 모집 (추가모집 7명)<p>
+                        <p class="text-white-50 mb-0">2018.05 1기 활동 종료, 팀 편제 재편 (기존 10개팀 -> 4개팀)<p>
+                      <p class="text-white-50 mb-0">2018.06 메모장 프로젝트 개시<p>
+                    <p class="text-white-50 mb-0">2018.10.13 제 1회 이냅스 해커톤 개최</p>
+                  <hr class="d-none d-lg-block mb-0 ml-0">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
         <!-- Featured Project Row -->
-        <div class="row align-items-center no-gutters mb-4 mb-lg-5">
+        <!-- <div class="row align-items-center no-gutters mb-4 mb-lg-5">
           <div class="col-xl-8 col-lg-7">
             <img class="img-fluid mb-3 mb-lg-0" src="/assets/img/bg-masthead.jpg" alt="">
           </div>
@@ -92,10 +116,10 @@ Used StartBootstrap-Grayscale Web Template
               <p class="text-black-50 mb-0">Grayscale is open source and MIT licensed. This means you can use it for any project - even commercial projects! Download it, customize it, and publish your website!</p>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <!-- Project One Row -->
-        <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+        <!-- <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
           <div class="col-lg-6">
             <img class="img-fluid" src="/assets/img/demo-image-01.jpg" alt="">
           </div>
@@ -110,10 +134,10 @@ Used StartBootstrap-Grayscale Web Template
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
         <!-- Project Two Row -->
-        <div class="row justify-content-center no-gutters">
+        <!-- <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
             <img class="img-fluid" src="/assets/img/demo-image-02.jpg" alt="">
           </div>
@@ -128,7 +152,7 @@ Used StartBootstrap-Grayscale Web Template
               </div>
             </div>
           </div>
-        </div>
+        </div> -->
 
       </div>
     </section>
