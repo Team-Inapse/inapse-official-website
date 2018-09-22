@@ -104,7 +104,168 @@ Used StartBootstrap-Grayscale Web Template
             </div>
           </div>
         </div>
-
+  <section class="contact-section bg-black">
+        <div class="container team" style="">
+            <h3 style="color:white">Team List</h3>
+            <div class="row">
+    
+              <div class="col-md-4">
+                <div class="card py-4 h-100">
+                  <div class="card-body text-center">
+                    <i class="fas fa-user-alt text-primary mb-2"></i>
+                    <h4 class="text-uppercase m-0">이정민(N)</h4>
+                    <hr class="my-4">
+                    <strong>WEB 백엔드</strong><br>
+                    <a href="mailto:NNNN1071@inapse.io">NNNN1071@inapse.io</a>
+                    <div class="small text-black-50">
+                      <a >PHP와 Angular 공부하고 있습니다</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+    
+              <div class="col-md-4">
+                <div class="card py-4 h-100">
+                  <div class="card-body text-center">
+                    <i class="fas  fa-user-alt text-primary mb-2"></i>
+                    <h4 class="text-uppercase m-0">신찬섭(POUS)</h4>
+                    <hr class="my-4">
+                    
+                    <strong>WEB 백엔드</strong><br>
+                    <a href="mailto:sheep3724@naver.com">sheep3724@naver.com</a>
+                    <div class="small text-black-50">
+                      <a >PHP와 Angular 공부하고 있습니다</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+    
+              <div class="col-md-4 ">
+                <div class="card py-4 h-100">
+                  <div class="card-body text-center">
+                    <i class="fas fa-user-alt text-primary mb-2"></i>
+                    <h4 class="text-uppercase m-0">이정민</h4>
+                    <hr class="my-4">
+                    <strong>WEB</strong><br>
+                    <a href="mailto:bineun02@gmail.com">bineun02@gmail.com</a>
+                    <div class="small text-black-50">
+                      <a >낑갓이 될려고 노력하는 자</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+    
+          
+    
+          </div>
+          <div class="container team">
+            
+              <div class="row">
+      
+                <div class="col-md-4">
+                  <div class="card py-4 h-100">
+                    <div class="card-body text-center">
+                      <i class="fas fa-user-alt text-primary mb-2"></i>
+                      <h4 class="text-uppercase m-0">강백준</h4>
+                      <hr class="my-4">
+                      <strong>운영진</strong><br>
+                    <a href="mailto:baekjun213@naver.com">baekjun213@naver.com</a>
+                    <div class="small text-black-50">
+                      <a >A.K.A.guardspy</a>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+      
+                <div class="col-md-4">
+                  <div class="card py-4 h-100">
+                    <div class="card-body text-center">
+                      <i class="fas fa-user-alt text-primary mb-2"></i>
+                      <h4 class="text-uppercase m-0">김민석</h4>
+                      <hr class="my-4">
+                      <strong>WEB</strong><br>
+                    <a href="mailto:kmssparrow@naver.com">kmssparrow@naver.com</a>
+                    <div class="small text-black-50">
+                      <a >A.K.A.guardspy</a>
+                    </div>
+                    </div>
+                  </div>
+                </div>
+      
+                <div class="col-md-4 ">
+                  <div class="card py-4 h-100">
+                    <div class="card-body text-center">
+                      <i class="fas fa-user-alt text-primary mb-2"></i>
+                      <h4 class="text-uppercase m-0">강주현</h4>
+                      <hr class="my-4">
+                      <strong>PC</strong><br>
+                      <a href="mailto:jhkang0908@naver.com">jhkang0908@naver.com</a>
+                      <div class="small text-black-50">
+                        <a >A.K.A.guardspy</a>
+                      </div>
+                  </div>
+                </div>
+              </div>
+      
+            
+      
+            </div>
+            </div>
+        <div class="container team">
+            
+          <div class="row">
+  
+            <div class="col-md-4">
+              <div class="card py-4 h-100">
+                <div class="card-body text-center">
+                  <i class="fas fa-user-alt text-primary mb-2"></i>
+                  <h4 class="text-uppercase m-0">조현서</h4>
+                  <hr class="my-4">
+                  <strong>총괄팀장</strong><br>
+                      <a href="mailto:rail020528@gmail.com">rail020528@gmail.com</a>
+                      <div class="small text-black-50">
+                        <a >아이디어를 현실로 바꾸며 일상를 바꾸는 Inapse, 세상을 바꾸는 Inapse를 만들겠습니다.</a>
+                      </div>
+                </div>
+              </div>
+            </div>
+  
+            <div class="col-md-4">
+              <div class="card py-4 h-100">
+                <div class="card-body text-center">
+                  <i class="fas fa-user-alt text-primary mb-2"></i>
+                  <h4 class="text-uppercase m-0">고승우</h4>
+                  <hr class="my-4">
+                  <strong>운영책임자</strong><br>
+                  <a href="mailto:kosw0301@inapse.io">kosw0301@inapse.io</a>
+                  <div class="small text-black-50">
+                    <a >인앱스 대표 딱갈 승우쨩</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+  
+            <div class="col-md-4 ">
+              <div class="card py-4 h-100">
+                <div class="card-body text-center">
+                  <i class="fas fa-user-alt text-primary mb-2"></i>
+                  <h4 class="text-uppercase m-0">성형주</h4>
+                  <hr class="my-4">
+                  <strong>WEB</strong><br>
+                  <a href="mailto:sungkisa@naver.com">sungkisa@naver.com</a>
+                  <div class="small text-black-50">
+                    <a >조현서의 노예</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+  
+        
+  
+        </div>
+      </section>
         <!-- Featured Project Row -->
         <!-- <div class="row align-items-center no-gutters mb-4 mb-lg-5">
           <div class="col-xl-8 col-lg-7">
